@@ -15,6 +15,7 @@
 		63FCFF2B23C884F50093707A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63FCFF2923C884F50093707A /* LaunchScreen.storyboard */; };
 		63FCFF3623C884F50093707A /* SeguesLessonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FCFF3523C884F50093707A /* SeguesLessonTests.swift */; };
 		63FCFF4123C884F50093707A /* SeguesLessonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FCFF4023C884F50093707A /* SeguesLessonUITests.swift */; };
+		63FCFF4F23C8868A0093707A /* DisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FCFF4E23C8868A0093707A /* DisplayViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		63FCFF3C23C884F50093707A /* SeguesLessonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeguesLessonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FCFF4023C884F50093707A /* SeguesLessonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeguesLessonUITests.swift; sourceTree = "<group>"; };
 		63FCFF4223C884F50093707A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63FCFF4E23C8868A0093707A /* DisplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				63FCFF2723C884F50093707A /* Assets.xcassets */,
 				63FCFF2923C884F50093707A /* LaunchScreen.storyboard */,
 				63FCFF2C23C884F50093707A /* Info.plist */,
+				63FCFF4E23C8868A0093707A /* DisplayViewController.swift */,
 			);
 			path = SeguesLesson;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				63FCFF2323C884F30093707A /* ViewController.swift in Sources */,
 				63FCFF1F23C884F30093707A /* AppDelegate.swift in Sources */,
 				63FCFF2123C884F30093707A /* SceneDelegate.swift in Sources */,
+				63FCFF4F23C8868A0093707A /* DisplayViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
